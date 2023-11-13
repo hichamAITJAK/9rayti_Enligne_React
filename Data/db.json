@@ -1,0 +1,66 @@
+{
+  "SavedCourses": [
+    {
+      "Mycourse": {
+        "id_course": 803,
+        "title": "Veritatis cum quasi sed.",
+        "duree": 13,
+        "N_participant": 664,
+        "likes": 699,
+        "discription": "Et impedit numquam odit mollitia officia quo modi.",
+        "price": 89,
+        "Language": "French",
+        "ensignant_id": 16,
+        "categorie_id": 51,
+        "created_at": "2023-10-27T21:16:12.000000Z",
+        "updated_at": "2023-10-27T21:16:12.000000Z"
+      },
+      "MyuserID": {
+        "id_etudiant": 54,
+        "nomComplet": "هشام ايت جاك",
+        "email": "aitjakhicham05@gmail.com",
+        "password": "hicham2001GB",
+        "sex": " ",
+        "age": 0,
+        "tel": "000-000-000",
+        "Nb_course": 0,
+        "social_media_id": 0,
+        "created_at": "2023-09-15T15:12:29.000000Z",
+        "updated_at": "2023-09-15T15:12:29.000000Z"
+      },
+      "id": 1
+    }
+  ],
+  "CartCourses": [
+    {
+      "Mycourse": {
+        "id_course": 836,
+        "title": "Ut assumenda officia nobis.",
+        "duree": 223,
+        "N_participant": 189,
+        "likes": 959,
+        "discription": "Cum et expedita ab unde.",
+        "price": 371,
+        "Language": "Arab",
+        "ensignant_id": 27,
+        "categorie_id": 51,
+        "created_at": "2023-10-27T21:16:12.000000Z",
+        "updated_at": "2023-10-27T21:16:12.000000Z"
+      },
+      "MyuserID": {
+        "id_etudiant": 54,
+        "nomComplet": "هشام ايت جاك",
+        "email": "aitjakhicham05@gmail.com",
+        "password": "hicham2001GB",
+        "sex": " ",
+        "age": 0,
+        "tel": "000-000-000",
+        "Nb_course": 0,
+        "social_media_id": 0,
+        "created_at": "2023-09-15T15:12:29.000000Z",
+        "updated_at": "2023-09-15T15:12:29.000000Z"
+      },
+      "id": 3
+    }
+  ]
+}

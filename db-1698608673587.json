@@ -1,0 +1,516 @@
+{
+  "SavedCourses": [
+    {
+      "Mycourse": {
+        "id_course": 10,
+        "title": "Emmett",
+        "duree": 672,
+        "N_participant": 551,
+        "likes": 494,
+        "discription": "Aliquid facere in itaque ullam nostrum enim.",
+        "price": 808,
+        "Language": "Arab",
+        "ensignant_id": 21,
+        "categorie_id": 4,
+        "created_at": "2023-09-06T15:45:12.000000Z",
+        "updated_at": "2023-09-06T15:45:12.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 6,
+        "nomComplet": "Arvilla",
+        "email": "spinka.yazmin@example.org",
+        "password": "Virginie",
+        "sex": "female",
+        "age": 647,
+        "tel": "+1 (984) 896-3284",
+        "Nb_course": 45,
+        "social_media_id": 6,
+        "created_at": "2023-09-10T14:03:55.000000Z",
+        "updated_at": "2023-09-10T14:03:55.000000Z"
+      },
+      "id": 2
+    },
+    {
+      "Mycourse": {
+        "id_course": 13,
+        "title": "Lisandro",
+        "duree": 436,
+        "N_participant": 793,
+        "likes": 678,
+        "discription": "Quis voluptas sint aspernatur.",
+        "price": 55,
+        "Language": "French",
+        "ensignant_id": 22,
+        "categorie_id": 6,
+        "created_at": "2023-09-06T15:45:13.000000Z",
+        "updated_at": "2023-09-06T15:45:13.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 6,
+        "nomComplet": "Arvilla",
+        "email": "spinka.yazmin@example.org",
+        "password": "Virginie",
+        "sex": "female",
+        "age": 647,
+        "tel": "+1 (984) 896-3284",
+        "Nb_course": 45,
+        "social_media_id": 6,
+        "created_at": "2023-09-10T14:03:55.000000Z",
+        "updated_at": "2023-09-10T14:03:55.000000Z"
+      },
+      "id": 3
+    },
+    {
+      "Mycourse": {
+        "id_course": 44,
+        "title": "Afton",
+        "duree": 173,
+        "N_participant": 920,
+        "likes": 293,
+        "discription": "Facere cupiditate sit qui iste reiciendis nobis qui vel.",
+        "price": 855,
+        "Language": "French",
+        "ensignant_id": 38,
+        "categorie_id": 1,
+        "created_at": "2023-09-06T15:45:13.000000Z",
+        "updated_at": "2023-09-06T15:45:13.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 6,
+        "nomComplet": "Arvilla",
+        "email": "spinka.yazmin@example.org",
+        "password": "Virginie",
+        "sex": "female",
+        "age": 647,
+        "tel": "+1 (984) 896-3284",
+        "Nb_course": 45,
+        "social_media_id": 6,
+        "created_at": "2023-09-10T14:03:55.000000Z",
+        "updated_at": "2023-09-10T14:03:55.000000Z"
+      },
+      "id": 4
+    },
+    {
+      "Mycourse": {
+        "id_course": 1,
+        "title": "Glennie",
+        "duree": 61,
+        "N_participant": 928,
+        "likes": 121,
+        "discription": "Non accusantium est rerum velit nulla sint saepe.",
+        "price": 163,
+        "Language": "Arab",
+        "ensignant_id": 38,
+        "categorie_id": 6,
+        "created_at": "2023-09-06T15:45:12.000000Z",
+        "updated_at": "2023-09-06T15:45:12.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 26,
+        "nomComplet": "Jordane",
+        "email": "ybauch@example.org",
+        "password": "Jedediah",
+        "sex": "female",
+        "age": 952,
+        "tel": "1-234-562-7102",
+        "Nb_course": 18,
+        "social_media_id": 50,
+        "created_at": "2023-09-10T14:03:55.000000Z",
+        "updated_at": "2023-09-10T14:03:55.000000Z"
+      },
+      "id": 5
+    },
+    {
+      "Mycourse": {
+        "id_course": 8,
+        "title": "Phoebe",
+        "duree": 927,
+        "N_participant": 32,
+        "likes": 69,
+        "discription": "In atque soluta molestiae.",
+        "price": 338,
+        "Language": "French",
+        "ensignant_id": 24,
+        "categorie_id": 10,
+        "created_at": "2023-09-06T15:45:12.000000Z",
+        "updated_at": "2023-09-06T15:45:12.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 54,
+        "nomComplet": "هشام ايت جاك",
+        "email": "aitjakhicham05@gmail.com",
+        "password": "hicham2001GB",
+        "sex": " ",
+        "age": 0,
+        "tel": "000-000-000",
+        "Nb_course": 0,
+        "social_media_id": 0,
+        "created_at": "2023-09-15T15:12:29.000000Z",
+        "updated_at": "2023-09-15T15:12:29.000000Z"
+      },
+      "id": 6
+    },
+    {
+      "Mycourse": {
+        "id_course": 20,
+        "title": "Joshuah",
+        "duree": 180,
+        "N_participant": 79,
+        "likes": 694,
+        "discription": "Repudiandae delectus iusto ipsa facilis.",
+        "price": 579,
+        "Language": "French",
+        "ensignant_id": 4,
+        "categorie_id": 1,
+        "created_at": "2023-09-06T15:45:13.000000Z",
+        "updated_at": "2023-09-06T15:45:13.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 54,
+        "nomComplet": "هشام ايت جاك",
+        "email": "aitjakhicham05@gmail.com",
+        "password": "hicham2001GB",
+        "sex": " ",
+        "age": 0,
+        "tel": "000-000-000",
+        "Nb_course": 0,
+        "social_media_id": 0,
+        "created_at": "2023-09-15T15:12:29.000000Z",
+        "updated_at": "2023-09-15T15:12:29.000000Z"
+      },
+      "id": 7
+    },
+    {
+      "Mycourse": {
+        "id_course": 17,
+        "title": "Baby",
+        "duree": 131,
+        "N_participant": 279,
+        "likes": 324,
+        "discription": "Molestiae dolores quia ipsum.",
+        "price": 459,
+        "Language": "Arab",
+        "ensignant_id": 0,
+        "categorie_id": 5,
+        "created_at": "2023-09-06T15:45:13.000000Z",
+        "updated_at": "2023-09-06T15:45:13.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 54,
+        "nomComplet": "هشام ايت جاك",
+        "email": "aitjakhicham05@gmail.com",
+        "password": "hicham2001GB",
+        "sex": " ",
+        "age": 0,
+        "tel": "000-000-000",
+        "Nb_course": 0,
+        "social_media_id": 0,
+        "created_at": "2023-09-15T15:12:29.000000Z",
+        "updated_at": "2023-09-15T15:12:29.000000Z"
+      },
+      "id": 8
+    },
+    {
+      "Mycourse": {
+        "id_course": 838,
+        "title": "Voluptatum numquam itaque et officiis.",
+        "duree": 421,
+        "N_participant": 983,
+        "likes": 909,
+        "discription": "Voluptas necessitatibus dolorum laudantium.",
+        "price": 464,
+        "Language": "Arab",
+        "ensignant_id": 16,
+        "categorie_id": 57,
+        "created_at": "2023-10-27T21:16:12.000000Z",
+        "updated_at": "2023-10-27T21:16:12.000000Z"
+      },
+      "MyuserID": {
+        "id_etudiant": 54,
+        "nomComplet": "هشام ايت جاك",
+        "email": "aitjakhicham05@gmail.com",
+        "password": "hicham2001GB",
+        "sex": " ",
+        "age": 0,
+        "tel": "000-000-000",
+        "Nb_course": 0,
+        "social_media_id": 0,
+        "created_at": "2023-09-15T15:12:29.000000Z",
+        "updated_at": "2023-09-15T15:12:29.000000Z"
+      },
+      "id": 9
+    }
+  ],
+  "CartCourses": [
+    {
+      "Mycourse": {
+        "id_course": 6,
+        "title": "Dexter",
+        "duree": 831,
+        "N_participant": 141,
+        "likes": 220,
+        "discription": "Reiciendis quia maxime eaque consectetur et non consequatur ut.",
+        "price": 821,
+        "Language": "Arab",
+        "ensignant_id": 16,
+        "categorie_id": 10,
+        "created_at": "2023-09-06T15:45:12.000000Z",
+        "updated_at": "2023-09-06T15:45:12.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 2,
+        "nomComplet": "Porter",
+        "email": "joanne63@example.net",
+        "password": "Elaina",
+        "sex": "female",
+        "age": 235,
+        "tel": "+1-505-420-7111",
+        "Nb_course": 70,
+        "social_media_id": 16,
+        "created_at": "2023-09-10T14:03:55.000000Z",
+        "updated_at": "2023-09-10T14:03:55.000000Z"
+      },
+      "id": 2
+    },
+    {
+      "Mycourse": {
+        "id_course": 32,
+        "title": "Nolan",
+        "duree": 33,
+        "N_participant": 222,
+        "likes": 318,
+        "discription": "Omnis distinctio dicta minus amet rerum quam enim.",
+        "price": 738,
+        "Language": "Arab",
+        "ensignant_id": 18,
+        "categorie_id": 1,
+        "created_at": "2023-09-06T15:45:13.000000Z",
+        "updated_at": "2023-09-06T15:45:13.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 13,
+        "nomComplet": "Tristin",
+        "email": "pjones@example.net",
+        "password": "Julianne",
+        "sex": "female",
+        "age": 307,
+        "tel": "470.713.8196",
+        "Nb_course": 87,
+        "social_media_id": 26,
+        "created_at": "2023-09-10T14:03:55.000000Z",
+        "updated_at": "2023-09-10T14:03:55.000000Z"
+      },
+      "id": 7
+    },
+    {
+      "Mycourse": {
+        "id_course": 39,
+        "title": "Ashley",
+        "duree": 295,
+        "N_participant": 190,
+        "likes": 740,
+        "discription": "Est omnis aut quia voluptates eveniet magni facilis.",
+        "price": 465,
+        "Language": "French",
+        "ensignant_id": 16,
+        "categorie_id": 9,
+        "created_at": "2023-09-06T15:45:13.000000Z",
+        "updated_at": "2023-09-06T15:45:13.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 13,
+        "nomComplet": "Tristin",
+        "email": "pjones@example.net",
+        "password": "Julianne",
+        "sex": "female",
+        "age": 307,
+        "tel": "470.713.8196",
+        "Nb_course": 87,
+        "social_media_id": 26,
+        "created_at": "2023-09-10T14:03:55.000000Z",
+        "updated_at": "2023-09-10T14:03:55.000000Z"
+      },
+      "id": 8
+    },
+    {
+      "Mycourse": {
+        "id_course": 54,
+        "title": "Jarrod",
+        "duree": 97,
+        "N_participant": 328,
+        "likes": 751,
+        "discription": "Itaque quia numquam aperiam ea.",
+        "price": 31,
+        "Language": "French",
+        "ensignant_id": 18,
+        "categorie_id": 10,
+        "created_at": "2023-09-06T15:45:13.000000Z",
+        "updated_at": "2023-09-06T15:45:13.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 13,
+        "nomComplet": "Tristin",
+        "email": "pjones@example.net",
+        "password": "Julianne",
+        "sex": "female",
+        "age": 307,
+        "tel": "470.713.8196",
+        "Nb_course": 87,
+        "social_media_id": 26,
+        "created_at": "2023-09-10T14:03:55.000000Z",
+        "updated_at": "2023-09-10T14:03:55.000000Z"
+      },
+      "id": 9
+    },
+    {
+      "Mycourse": {
+        "id_course": 6,
+        "title": "Dexter",
+        "duree": 831,
+        "N_participant": 141,
+        "likes": 220,
+        "discription": "Reiciendis quia maxime eaque consectetur et non consequatur ut.",
+        "price": 821,
+        "Language": "Arab",
+        "ensignant_id": 16,
+        "categorie_id": 10,
+        "created_at": "2023-09-06T15:45:12.000000Z",
+        "updated_at": "2023-09-06T15:45:12.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 26,
+        "nomComplet": "Jordane",
+        "email": "ybauch@example.org",
+        "password": "Jedediah",
+        "sex": "female",
+        "age": 952,
+        "tel": "1-234-562-7102",
+        "Nb_course": 18,
+        "social_media_id": 50,
+        "created_at": "2023-09-10T14:03:55.000000Z",
+        "updated_at": "2023-09-10T14:03:55.000000Z"
+      },
+      "id": 10
+    },
+    {
+      "Mycourse": {
+        "id_course": 1,
+        "title": "Glennie",
+        "duree": 61,
+        "N_participant": 928,
+        "likes": 121,
+        "discription": "Non accusantium est rerum velit nulla sint saepe.",
+        "price": 163,
+        "Language": "Arab",
+        "ensignant_id": 38,
+        "categorie_id": 6,
+        "created_at": "2023-09-06T15:45:12.000000Z",
+        "updated_at": "2023-09-06T15:45:12.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 54,
+        "nomComplet": "هشام ايت جاك",
+        "email": "aitjakhicham05@gmail.com",
+        "password": "hicham2001GB",
+        "sex": " ",
+        "age": 0,
+        "tel": "000-000-000",
+        "Nb_course": 0,
+        "social_media_id": 0,
+        "created_at": "2023-09-15T15:12:29.000000Z",
+        "updated_at": "2023-09-15T15:12:29.000000Z"
+      },
+      "id": 11
+    },
+    {
+      "Mycourse": {
+        "id_course": 4,
+        "title": "Emilio",
+        "duree": 583,
+        "N_participant": 173,
+        "likes": 424,
+        "discription": "Quasi voluptatum dicta iusto neque consectetur voluptatem ut.",
+        "price": 568,
+        "Language": "Arab",
+        "ensignant_id": 14,
+        "categorie_id": 8,
+        "created_at": "2023-09-06T15:45:12.000000Z",
+        "updated_at": "2023-09-06T15:45:12.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 54,
+        "nomComplet": "هشام ايت جاك",
+        "email": "aitjakhicham05@gmail.com",
+        "password": "hicham2001GB",
+        "sex": " ",
+        "age": 0,
+        "tel": "000-000-000",
+        "Nb_course": 0,
+        "social_media_id": 0,
+        "created_at": "2023-09-15T15:12:29.000000Z",
+        "updated_at": "2023-09-15T15:12:29.000000Z"
+      },
+      "id": 12
+    },
+    {
+      "Mycourse": {
+        "id_course": 3,
+        "title": "Orie",
+        "duree": 891,
+        "N_participant": 186,
+        "likes": 255,
+        "discription": "Optio quae exercitationem quia fugit dignissimos cumque quia neque.",
+        "price": 711,
+        "Language": "French",
+        "ensignant_id": 15,
+        "categorie_id": 2,
+        "created_at": "2023-09-06T15:45:12.000000Z",
+        "updated_at": "2023-09-06T15:45:12.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 54,
+        "nomComplet": "هشام ايت جاك",
+        "email": "aitjakhicham05@gmail.com",
+        "password": "hicham2001GB",
+        "sex": " ",
+        "age": 0,
+        "tel": "000-000-000",
+        "Nb_course": 0,
+        "social_media_id": 0,
+        "created_at": "2023-09-15T15:12:29.000000Z",
+        "updated_at": "2023-09-15T15:12:29.000000Z"
+      },
+      "id": 13
+    },
+    {
+      "Mycourse": {
+        "id_course": 20,
+        "title": "Joshuah",
+        "duree": 180,
+        "N_participant": 79,
+        "likes": 694,
+        "discription": "Repudiandae delectus iusto ipsa facilis.",
+        "price": 579,
+        "Language": "French",
+        "ensignant_id": 4,
+        "categorie_id": 1,
+        "created_at": "2023-09-06T15:45:13.000000Z",
+        "updated_at": "2023-09-06T15:45:13.000000Z"
+      },
+      "MyuserDetails": {
+        "id_etudiant": 54,
+        "nomComplet": "هشام ايت جاك",
+        "email": "aitjakhicham05@gmail.com",
+        "password": "hicham2001GB",
+        "sex": " ",
+        "age": 0,
+        "tel": "000-000-000",
+        "Nb_course": 0,
+        "social_media_id": 0,
+        "created_at": "2023-09-15T15:12:29.000000Z",
+        "updated_at": "2023-09-15T15:12:29.000000Z"
+      },
+      "id": 14
+    }
+  ]
+}
