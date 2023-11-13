@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/9rayti_Enligne_React/static/css/main.e05de450.css",
+    "main.js": "/9rayti_Enligne_React/static/js/main.66a99f06.js",
+    "index.html": "/9rayti_Enligne_React/index.html",
+    "main.e05de450.css.map": "/9rayti_Enligne_React/static/css/main.e05de450.css.map",
+    "main.66a99f06.js.map": "/9rayti_Enligne_React/static/js/main.66a99f06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e05de450.css",
+    "static/js/main.66a99f06.js"
+  ]
+}
